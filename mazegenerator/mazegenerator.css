@@ -1,0 +1,40 @@
+body {
+  background-color: grey;
+}
+
+
+table {
+  border-spacing: 0;
+  border: 1px solid white;
+}
+
+td {
+  height: 8px;
+  width: 8px;
+  background-color: grey;
+  border: 1px solid black;
+}
+
+.top {
+  border-top: 1px solid grey;
+}
+
+.right {
+  border-right: 1px solid grey;
+}
+
+.bottom {
+  border-bottom: 1px solid grey;
+}
+
+.left {
+  border-left: 1px solid grey;
+}
+
+.visited {
+  background-color: black;
+}
+
+.active {
+  background-color: yellow;
+}
